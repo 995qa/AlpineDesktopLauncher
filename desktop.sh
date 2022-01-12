@@ -1,0 +1,15 @@
+echo "++++++++++++++++++++++++++++++++++"
+echo "+                                +"
+echo "+   Alpine Desktop Launcher      +"
+echo "+   (c) ZCY 2022                 +"
+echo "+                                +"
+echo "++++++++++++++++++++++++++++++++++"
+echo ""
+echo ""
+echo "Launching dbus..."
+rc-service dbus start
+echo "OK."
+echo "Launching LightDM..."
+rc-service lightdm start
+echo "OK."
+echo "LightDM launching failed! Please make sure lightdm-gtk-greeter is installed."
