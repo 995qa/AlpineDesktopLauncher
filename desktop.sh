@@ -1,7 +1,7 @@
 echo "++++++++++++++++++++++++++++++++++"
 echo "+                                +"
 echo "+   Alpine Desktop Launcher      +"
-echo "+   (c) ZCY 2022                 +"
+echo "+                                +"
 echo "+                                +"
 echo "++++++++++++++++++++++++++++++++++"
 echo ""
